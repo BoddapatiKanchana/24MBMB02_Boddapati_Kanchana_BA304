@@ -13,7 +13,7 @@ The project consists of five analytical **use cases** and a **voice-over present
 
 ---
 
-## 🚀 **Project Highlights**
+## **Project Highlights**
 
 | **Aspect**            | **Description**                                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ Beyond_Melody/
 ---
 
 
-## 🧰 **Tools and Technologies**
+## **Tools and Technologies**
 
 | **Category**        | **Tools**                              |
 | ------------------- | -------------------------------------- |
